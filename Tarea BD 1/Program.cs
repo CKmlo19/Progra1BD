@@ -13,7 +13,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-// prueba commit
+// prueba commit 2
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

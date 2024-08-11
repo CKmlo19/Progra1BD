@@ -1,4 +1,6 @@
-﻿namespace Tarea_BD_1.Datos
+﻿using System.Data.SqlClient;
+
+namespace Tarea_BD_1.Datos
 {
     public class Conexion
     {

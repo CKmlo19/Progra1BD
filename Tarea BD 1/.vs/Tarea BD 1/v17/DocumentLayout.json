@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\datos\\empleadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:datos\\empleadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\models\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:models\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoModel.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Models\\EmpleadoModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmpleadoModel.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Models\\EmpleadoModel.cs",
+              "RelativeToolTip": "Models\\EmpleadoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:36:41.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoDatos.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Datos\\EmpleadoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\EmpleadoDatos.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Datos\\EmpleadoDatos.cs",
+              "RelativeToolTip": "Datos\\EmpleadoDatos.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:35:44.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:18:10.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T20:15:47.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:15:46.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

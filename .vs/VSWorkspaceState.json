@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Tarea BD 1",
+    "\\Tarea BD 1\\Controllers",
+    "\\Tarea BD 1\\Models",
+    "\\Tarea BD 1\\Views"
   ],
-  "PreviewInSolutionExplorer": false
+  "PreviewInSolutionExplorer": true
 }

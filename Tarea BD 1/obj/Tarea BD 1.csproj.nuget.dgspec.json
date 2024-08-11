@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Source\\Repos\\Progra1BD\\Tarea BD 1\\Tarea BD 1.csproj": {}
+    "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Source\\Repos\\Progra1BD\\Tarea BD 1\\Tarea BD 1.csproj": {
+    "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Progra1BD\\Tarea BD 1\\Tarea BD 1.csproj",
+        "projectUniqueName": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj",
         "projectName": "Tarea BD 1",
-        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Progra1BD\\Tarea BD 1\\Tarea BD 1.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Progra1BD\\Tarea BD 1\\obj\\",
+        "projectPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj",
+        "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
+        "outputPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

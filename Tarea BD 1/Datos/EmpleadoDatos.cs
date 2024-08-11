@@ -19,7 +19,7 @@ namespace Tarea_BD_1.Datos
                 conexion.Open();
                 // el procedure de listar
                 SqlCommand cmd = new SqlCommand("dbo.ListarEmpleado", conexion);
-                cmd.Parameters.AddWithValue("OutResultCode", 0); // se le coloca un 0 en el outresultcode
+                cmd.Parameters.AddWithValue("ResultCode", 0); // se le coloca un 0 en el outresultcode
                 cmd.CommandType = CommandType.StoredProcedure;
 
                 using (var dr = cmd.ExecuteReader()) // este se utiliza cuando se retorna una gran cantidad de datos, por ejemplo la tabla completa

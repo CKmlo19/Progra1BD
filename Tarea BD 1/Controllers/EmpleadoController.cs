@@ -34,12 +34,12 @@ namespace Tarea_BD_1.Controllers
 
             if (resultado == 0)
             {
-                return View("Exito");
+                return RedirectToAction("Listar");
             }
             else
             {
                 //return RedirectToAction("Fracaso");
-                return View("Fracaso");
+                return View();
             }
         }
     }

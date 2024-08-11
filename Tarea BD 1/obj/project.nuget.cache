@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "83eWzwMSy+kLgjixEnnKFhehS61KQQCByLJqrIeIaXIlTejBiNid6Ah27PuAAde7c4QHoEcY8PnQeIggC7rEjw==",
+  "dgSpecHash": "sy+Y4zXD+AoYOsU0GViB7QWV/orTGSV5xLwIM+wIlO1qi63z09n1UlXbgrLodEu6ywqvV4YjDnc1fkt60TvBSg==",
   "success": true,
-  "projectFilePath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj",
+  "projectFilePath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Tarea BD 1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisc\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\",
+  "WorkspaceRootPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\views\\empleado\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:views\\empleado\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\views\\empleado\\insertar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\views\\empleado\\insertar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:views\\empleado\\insertar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\datos\\empleadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:datos\\empleadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\tarea bd 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:tarea bd 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\datos\\empleadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:datos\\empleadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\models\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\models\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:models\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\views\\empleado\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:views\\empleado\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1\\tarea bd 1\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\tarea bd 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:tarea bd 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|d:\\tec\\ii semestre 2024\\bases de datos\\progra1_a\\tarea bd 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{615B8C27-F64D-44FE-BC80-20E4A4B5AE22}|Tarea BD 1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,46 +80,48 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABWAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-11T22:23:13.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Insertar.cshtml",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Views\\Empleado\\Insertar.cshtml",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Views\\Empleado\\Insertar.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleado\\Insertar.cshtml",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Views\\Empleado\\Insertar.cshtml",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Views\\Empleado\\Insertar.cshtml",
               "RelativeToolTip": "Views\\Empleado\\Insertar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T19:46:43.84Z"
+              "WhenOpened": "2024-08-11T19:46:43.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "EmpleadoController.cs",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Controllers\\EmpleadoController.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Controllers\\EmpleadoController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmpleadoController.cs",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Controllers\\EmpleadoController.cs",
               "RelativeToolTip": "Controllers\\EmpleadoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T18:53:03.858Z"
+              "WhenOpened": "2024-08-11T18:53:03.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,47 +129,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "EmpleadoModel.cs",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Models\\EmpleadoModel.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Models\\EmpleadoModel.cs",
               "RelativeDocumentMoniker": "Models\\EmpleadoModel.cs",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Models\\EmpleadoModel.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Models\\EmpleadoModel.cs",
               "RelativeToolTip": "Models\\EmpleadoModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T00:36:41.658Z"
+              "WhenOpened": "2024-08-11T00:36:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoDatos.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Datos\\EmpleadoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\EmpleadoDatos.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Datos\\EmpleadoDatos.cs",
+              "RelativeToolTip": "Datos\\EmpleadoDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:35:44.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EmpleadoDatos.cs",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Datos\\EmpleadoDatos.cs",
-              "RelativeDocumentMoniker": "Datos\\EmpleadoDatos.cs",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Datos\\EmpleadoDatos.cs",
-              "RelativeToolTip": "Datos\\EmpleadoDatos.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T00:35:44.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Datos\\Conexion.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Datos\\Conexion.cs",
               "RelativeDocumentMoniker": "Datos\\Conexion.cs",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Datos\\Conexion.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Datos\\Conexion.cs",
               "RelativeToolTip": "Datos\\Conexion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T20:18:10.249Z"
+              "WhenOpened": "2024-08-10T20:18:10.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Program.cs",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Program.cs",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,23 +180,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Listar.cshtml",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Views\\Empleado\\Listar.cshtml",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Views\\Empleado\\Listar.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleado\\Listar.cshtml",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Views\\Empleado\\Listar.cshtml",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Views\\Empleado\\Listar.cshtml",
               "RelativeToolTip": "Views\\Empleado\\Listar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T19:46:10.314Z"
+              "WhenOpened": "2024-08-11T19:46:10.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Tarea BD 1.csproj",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Tarea BD 1.csproj",
               "RelativeDocumentMoniker": "Tarea BD 1.csproj",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Tarea BD 1.csproj",
               "RelativeToolTip": "Tarea BD 1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -199,11 +205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\appsettings.json",
+              "DocumentMoniker": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\appsettings.json",
+              "ToolTip": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

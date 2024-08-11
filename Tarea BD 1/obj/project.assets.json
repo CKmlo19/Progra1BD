@@ -6154,11 +6154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj",
+      "projectUniqueName": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Tarea BD 1.csproj",
       "projectName": "Tarea BD 1",
-      "projectPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\Tarea BD 1.csproj",
+      "projectPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\Tarea BD 1.csproj",
       "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-      "outputPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1\\Tarea BD 1\\obj\\",
+      "outputPath": "D:\\TEC\\II Semestre 2024\\Bases de Datos\\Progra1_A\\Tarea BD 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config",

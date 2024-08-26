@@ -34,10 +34,12 @@ namespace Tarea_BD_1.Controllers
 
             if (resultado == 0)
             {
+                TempData["ShowModal"] = true; // Indicador para mostrar el modal
                 return RedirectToAction("Listar");
             }
             else
             {
+                ViewBag.ShowErrorModal = true; // Indicador para mostrar el modal
                 //return RedirectToAction("Fracaso");
                 return View();
             }

@@ -19,7 +19,12 @@ namespace Tarea_BD_1.Datos
                 conexion.Open();
                 // el procedure de listar
                 SqlCommand cmd = new SqlCommand("dbo.ListarEmpleado", conexion);
-                cmd.Parameters.AddWithValue("ResultCode", 0); // se le coloca un 0 en el outresultcode
+                // Configurar el parámetro de salida
+                SqlParameter outputParam = new SqlParameter("@OutResultCode", SqlDbType.Int)
+                {
+                    Direction = ParameterDirection.Output
+                };
+                cmd.Parameters.Add(outputParam);
                 cmd.CommandType = CommandType.StoredProcedure;
 
                 using (var dr = cmd.ExecuteReader()) // este se utiliza cuando se retorna una gran cantidad de datos, por ejemplo la tabla completa
@@ -56,11 +61,17 @@ namespace Tarea_BD_1.Datos
                     SqlCommand cmd = new SqlCommand("dbo.InsertarEmpleado", conexion);
                     cmd.Parameters.AddWithValue("inNombre", oEmpleado.Nombre.Trim()); // se le hace un trim a la hora de insertar
                     cmd.Parameters.AddWithValue("inSalario", oEmpleado.Salario);
-                    cmd.Parameters.AddWithValue("OutResultCode", 0); // en un inicio se coloca en 0
+                    // Configurar el parámetro de salida
+                    SqlParameter outputParam = new SqlParameter("@OutResultCode", SqlDbType.Int)
+                    {
+                        Direction = ParameterDirection.Output
+                    };
+                    cmd.Parameters.Add(outputParam);
+                    //cmd.Parameters.AddWithValue("OutResultCode", 0); // en un inicio se coloca en 0
                     cmd.CommandType = CommandType.StoredProcedure;
-                    resultado = Convert.ToInt32(cmd.ExecuteScalar()); // Lo ejecuta y retorna un valor
-                    Console.WriteLine(resultado);
-                    // Registrar el script en la página para que se ejecute en el lado del cliente
+                    cmd.ExecuteNonQuery();
+                    //resultado = Convert.ToInt32(cmd.ExecuteScalar()); //
+                    resultado = (int)cmd.Parameters["@OutResultCode"].Value; // resultado es igual al codigo del output
                 }
             }
             catch (Exception e)
